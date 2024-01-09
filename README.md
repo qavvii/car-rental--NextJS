@@ -52,17 +52,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Some screen shot of web 
 ![scre35](https://github.com/qavvii/car-rental--NextJS/assets/136834246/7fedeb8a-5a42-4c78-9273-21c31aeb2d59)
 
-
 ![screenshot1](https://github.com/qavvii/car-rental--NextJS/assets/136834246/f488b5ec-3d17-4611-9512-e3ef5e254487)
 
 ![screenshot2](https://github.com/qavvii/car-rental--NextJS/assets/136834246/234336c7-486e-4431-b8e0-4479740c6021)
 
-
-
 ![scree3](https://github.com/qavvii/car-rental--NextJS/assets/136834246/48f66c18-b1ea-4b7a-8a52-b8c13bd49076)
-
-
-
 
 ![scree6](https://github.com/qavvii/car-rental--NextJS/assets/136834246/bd8ca310-155a-44d1-b71f-c543e5b301cd)
 
